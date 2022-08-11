@@ -6,7 +6,19 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Th4n4705)
 [![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Th4n4705)]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Th4n4705)
+
+I am a software developer.
+
+since i was a kid i wanted to create software solutions maybe some time games :stuck_out_tongue_winking_eye:
+
+it's two years now that i take that decision to build solid habits. And i think that i am late about working on github on a daily basis.
+
+so i m eager to use it daily!
+
+I am currently working on some assignments, and also try to code daily on leetcode, the  [![LeetCodeProblems](https://img.shields.io/badge/LeetCodeProblems-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Th4n4705/LeetCodeProblems)  repository is about the problems that i solve there.
+
+Feel free to contact me
 <!--
 **Th4n4705/Th4n4705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
