@@ -16,7 +16,7 @@ it's two years now that i take that decision to build solid habits. And i think 
 
 so i m eager to use it daily!
 
-I am currently working on some assignments, and also try to code daily on leetcode, the  [![LeetCodeProblems](https://img.shields.io/badge/LeetCodeProblems-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Th4n4705/LeetCodeProblems)  repository is about the problems that i solve there.
+I am currently working on some assignments, and also try to code daily on leetcode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that i solve there.
 
 Feel free to contact me
 <!--
