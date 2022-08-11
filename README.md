@@ -1,4 +1,4 @@
-### Hi there I'm Taha :ghost:
+# Hi there I'm Taha :ghost:
 
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thanat05)
 
@@ -6,7 +6,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Th4n4705)
 [![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Th4n4705)
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Th4n4705)
 
 I am a software developer.
 
