@@ -14,7 +14,7 @@ Since i was a kid i wanted to create software solutions maybe some time games :s
 
 It's two years now that i take that decision to build solid habits. And i think that i am late about working on github on a daily basis.
 
-So i m eager to use github daily, just to share things that i made. And to make it public to people like you wich they are interested in coding.
+So i m eager to use github daily, just to share things that i made. And to make it public to people like you which, they are interested in coding.
 
 I am currently working on some assignments, and also try to code daily on leetcode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that i solve there.
 
