@@ -12,7 +12,7 @@ I am a software developer.
 
 Since i was a kid i wanted to create software solutions maybe some time games :stuck_out_tongue_winking_eye:
 
-It's two years now that i take that decision to build solid habits. And i think that i am late about working on github on a daily basis.
+It's two years now that i take that decision to build solid habits. And i am working on github on a daily basis.
 
 So i m eager to use github daily, just to share things that i made. And to make it public to people like you which, they are interested in coding.
 
