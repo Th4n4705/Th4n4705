@@ -18,7 +18,7 @@ So i m eager to use github daily, just to share things that i made. And to make 
 
 I am currently working on some assignments, and also try to code daily on leetcode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that i solve there.
 
-Feel free to contact me on Linked In above
+Feel free to contact me on **Linked In** above
 
 ![Th4n4705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th4n4705&count_private=true&include_all_commits=true&theme=tokyonight)
 
