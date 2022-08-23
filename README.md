@@ -18,13 +18,13 @@ So i m eager to use github daily, just to share things that i made. And to make 
 
 I am currently working on some assignments, and also try to code daily on leetcode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that i solve there.
 
-Feel free to contact me on **Linked In** above
+Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or [mail me](mailto:taha.wakrim.pro@gmail.com) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th4n4705&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th4n4705&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Th4n4705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th4n4705&count_private=true&include_all_commits=true&theme=dark)
+![Th4n4705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th4n4705&count_private=true&include_all_commits=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4n4705&theme=dark)](https://github.com/Th4n4705/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4n4705&theme=github_dark)](https://github.com/Th4n4705/github-readme-stats)
 
 <!--
 **Th4n4705/Th4n4705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,5 +55,7 @@ http://github-readme-streak-stats.herokuapp.com/demo/
 
 [![Th4n4705's github activity graph](https://activity-graph.herokuapp.com/graph?username=Th4n4705&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Th4n4705&theme=github_dark)
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th4n4705&theme=github_dark)
 -->
