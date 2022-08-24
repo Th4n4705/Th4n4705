@@ -18,7 +18,7 @@ So i m eager to use github daily, just to share things that i made. And to make 
 
 I am currently working on some assignments, and also try to code daily on leetcode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that i solve there.
 
-Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or [mail me](mailto:taha.wakrim.pro@gmail.com) 
+Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or  on [mail](mailto:taha.wakrim.pro@gmail.com) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th4n4705&theme=github-dark-blue)](https://git.io/streak-stats)
 
