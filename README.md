@@ -10,15 +10,15 @@
 
 I am a software developer.
 
-Since i was a kid i wanted to create software solutions maybe some time games :stuck_out_tongue_winking_eye:
+Since I was a kid, I wanted to create software solutions or even sometimes games 😜
 
-It's two years now that i take that decision to build solid habits. And i am working on github on a daily basis.
+It's two years now, since I took that decision to build solid habits. 
 
-So i m eager to use github daily, just to share things that i made. And to make it public to people like you, which they are interested in coding.
+So I m eager to use GitHub daily, just to share things that I made. And to make it public to people like you, which are interested in coding.
 
-I am currently working on some assignments, and also try to code daily on leetcode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that i solve there.
+I am currently working on some assignments, and also try to code daily on LeetCode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that I solve there.
 
-Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or  on [mail](mailto:taha.wakrim.pro@gmail.com) 
+Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or by [E-Mail](mailto:taha.wakrim.pro@gmail.com) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th4n4705&theme=github-dark-blue)](https://git.io/streak-stats)
 
