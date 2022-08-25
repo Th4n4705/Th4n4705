@@ -6,7 +6,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Th4n4705)
 [![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Th4n4705)
+### Glad to see you here! 
 
 I am a software developer.
 
@@ -25,6 +25,11 @@ Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or 
 ![Th4n4705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th4n4705&count_private=true&include_all_commits=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4n4705&theme=github_dark)](https://github.com/Th4n4705/github-readme-stats)
+
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=your-github-Th4n4705&color=blue&style=for-the-badge"/>
+</p>
 
 <!--
 **Th4n4705/Th4n4705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,4 +63,7 @@ http://github-readme-streak-stats.herokuapp.com/demo/
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Th4n4705&theme=github_dark)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th4n4705&theme=github_dark)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Th4n4705)
 -->
