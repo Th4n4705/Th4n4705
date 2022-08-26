@@ -10,11 +10,11 @@
 
 I am a software developer.
 
-Since I was a kid, I wanted to create software solutions or even sometimes games 😜
+Since I was a kid. I wanted to create software solutions or even sometimes games 😜
 
-It's two years now, since I took that decision to build solid habits. 
+It's two years now since I took that decision to build solid habits. 
 
-So I am eager to use GitHub daily, just to share things that I made. And to make it public to people like you, which are interested in coding.
+So I am, eager to use GitHub daily, just to share things that I made. And to make it public to people like you, which are interested in coding.
 
 I am currently working on some assignments, and also try to code daily on LeetCode, the [LeetCodeProblems](https://github.com/Th4n4705/LeetCodeProblems) repository is about the problems that I solve there.
 
