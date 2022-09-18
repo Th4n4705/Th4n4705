@@ -3,8 +3,8 @@
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/thanat05)
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/twakrim/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Th4n4705)
 [![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)
+<!--[![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Th4n4705)-->
 
 ### Glad to see you here! 
 
