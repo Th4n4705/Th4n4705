@@ -3,7 +3,8 @@
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/thanat05)
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/twakrim/)
-[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)
+<!--[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)-->
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=FFA116&color=black&label=Leetcode-Solved-Problem&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FThanat05&logo=leetcode&logoColor=white)](https://leetcode.com/Thanat05/)
 <!--[![github](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Th4n4705)-->
 
 ### Glad to see you here! 
