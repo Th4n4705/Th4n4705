@@ -22,11 +22,11 @@ I am currently coding daily on LeetCode, the [LeetCodeProblems](https://github.c
 Feel free to contact me on [Linked In](https://www.linkedin.com/in/twakrim/) or by [E-Mail](mailto:taha.wakrim.pro@gmail.com) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th4n4705&theme=github-dark-blue)](https://git.io/streak-stats)
-
+<!--
 ![Th4n4705's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th4n4705&count_private=true&include_all_commits=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4n4705&theme=github_dark)](https://github.com/Th4n4705/github-readme-stats)
-
+-->
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=your-github-Th4n4705&color=blue&style=for-the-badge"/>
